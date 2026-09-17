@@ -1,1 +1,96 @@
+{
+  "FirstName": "Manasa",
+  "LastName": "Goda",
 
+
+  "Address": "doma",
+  "City": "vikarabad",
+  "Country": "India",
+  "PostalCode": "501502",
+
+  "Email": "manasanikhitha017@gmail.com",
+
+  "About": "I'm sincere guy who is passionate about web development and constantly learning new technologies.",
+
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology",
+      "FieldOfStudy": "electronics & communication Engineering",
+      "Institute": "sridevi womens engneering",
+      "UniversityOrBoard": "JNTUH University",
+      "StartYear": "2025",
+      "EndYear": "2028",
+      "Location": "Vattinagulapally, Telangana",
+      "GraduationYear": "2028"
+    },
+    {
+      "Degree": "Diploma",
+      "FieldOfStudy": "Science",
+      "Institute": "Government polytechinc mahabubnagar College",
+      "UniversityOrBoard": "State Board",
+      "StartYear": "2022",
+      "EndYear": "2025",
+      "Location": "Mahabubnagar, Telangana",
+      "GraduationYear": "2025"
+    },
+    {
+      "Degree": "X",
+      "FieldOfStudy": "General",
+      "Institute": "TSWREIS",
+      "UniversityOrBoard": "State Board",
+      "StartYear": "2024",
+      "EndYear": "2025",
+      "Location": "Nancherla, Telangana",
+      "GraduationYear": "2025"
+    }
+  ],
+
+  "Skills": [
+
+    {
+      "category": "Database",
+      "skills": ["MySQL"]
+    },
+    
+    {
+      "category": "Tools",
+      "skills": ["VS Code"]
+    }
+  ],
+
+  "Projects": [
+    {
+      "Name": "Portfolio Website",
+      "Description": "A personal portfolio website to showcase my projects and skills.",
+      "Technologies": ["HTML", "CSS", "JavaScript", "React"],
+      "Link": "https://github.com/sidduganeshm/portfolio-website"
+    }
+ 
+  ],
+
+ 
+ 
+
+  "Hobbies": [
+    "Reading",
+    "Coding",
+    "Traveling",
+    "Gaming"
+  ],
+
+  "Languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+  ],
+
+  "References": [
+    {
+      "Name": "John Doe",
+      "Relationship": "Manager",
+      "Contact": "john.doe@example.com"
+    }
+  ]
+
+
+}
